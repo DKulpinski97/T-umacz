@@ -1,0 +1,9 @@
+C:\Users\Dawid\OneDrive\Pulpit\Magisterka\Programy\tłumacz\bin\Release\tlumacz.exe.config
+C:\Users\Dawid\OneDrive\Pulpit\Magisterka\Programy\tłumacz\bin\Release\tlumacz.exe
+C:\Users\Dawid\OneDrive\Pulpit\Magisterka\Programy\tłumacz\bin\Release\tlumacz.pdb
+C:\Users\Dawid\OneDrive\Pulpit\Magisterka\Programy\tłumacz\obj\Release\tlumacz.Form1.resources
+C:\Users\Dawid\OneDrive\Pulpit\Magisterka\Programy\tłumacz\obj\Release\tlumacz.Properties.Resources.resources
+C:\Users\Dawid\OneDrive\Pulpit\Magisterka\Programy\tłumacz\obj\Release\tlumacz.csproj.GenerateResource.cache
+C:\Users\Dawid\OneDrive\Pulpit\Magisterka\Programy\tłumacz\obj\Release\tlumacz.csproj.CoreCompileInputs.cache
+C:\Users\Dawid\OneDrive\Pulpit\Magisterka\Programy\tłumacz\obj\Release\tlumacz.exe
+C:\Users\Dawid\OneDrive\Pulpit\Magisterka\Programy\tłumacz\obj\Release\tlumacz.pdb
